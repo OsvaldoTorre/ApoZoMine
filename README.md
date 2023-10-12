@@ -1,5 +1,6 @@
 # ApoZoMine
-https://i.postimg.cc/pLJKHQ3V/Apo-Zo-Mine.png
+[![Apo-Zo-Mine.png](https://i.postimg.cc/pLJKHQ3V/Apo-Zo-Mine.png)](https://postimg.cc/pmymQj23)
+
 Mod apocalipsis zombie Minecraft 1.7.10
 
 versiones
