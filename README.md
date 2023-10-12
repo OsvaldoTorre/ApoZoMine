@@ -1,4 +1,3 @@
-[![Apo-Zo-Mine.png](https://i.postimg.cc/pLJKHQ3V/Apo-Zo-Mine.png)](https://postimg.cc/pmymQj23)
 # ApoZoMine
 [![Apo-Zo-Mine.png](https://i.postimg.cc/pLJKHQ3V/Apo-Zo-Mine.png)](https://postimg.cc/pmymQj23)
 
